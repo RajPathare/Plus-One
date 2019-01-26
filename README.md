@@ -3,7 +3,7 @@ Plus One is an infinite platform runner where the player has to avoid all the ob
 ### Link to be provided soon
 
 
-## Demo
+## Game Demo
 <a href="https://imgflip.com/gif/2s2sz3"><img src="https://i.imgflip.com/2s2sz3.gif" title="made at imgflip.com"/></a>
 
 ## Developer
