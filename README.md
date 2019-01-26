@@ -8,8 +8,8 @@ Plus One is an infinite platform runner where the player has to avoid all the ob
 - Raj Pathare
 
 ### Platforms
--Android (v4.1+)
--PC
+- Android (v4.1+)
+- PC
 
 
 ### Graphics/Textures
