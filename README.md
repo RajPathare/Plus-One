@@ -1,5 +1,7 @@
 # Plus One
-Plus One is an infinite platform runner where the player has to avoid all the obstacles coming in and try to score higher.  You can download the game here //Link to be provided soon//
+Plus One is an infinite platform runner where the player has to avoid all the obstacles coming in and try to score higher.  You can download the game here 
+### Link to be provided soon
+
 
 ## Demo
 <a href="https://imgflip.com/gif/2s2sz3"><img src="https://i.imgflip.com/2s2sz3.gif" title="made at imgflip.com"/></a>
