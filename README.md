@@ -20,4 +20,6 @@ The game graphics are specially designed for mobile users. The textures are chos
 To add more features in the game like - powerups, changing the environment if the player reaches a certain score(to make it more interesting). Also, it can be hosted online so that a lot of players can access it easily.
 
 ### License
-MIT License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+
